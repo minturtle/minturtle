@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minturtle&layout=donut&show_icons=true&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
 
-[![minturtle's GitHub stats](https://github-readme-stats.vercel.app/api?username=minturtle)](https://github.com/minturtle/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=minturtle&show_icons=true&hide_border=true&count_private=true" width=56% />
+</a>
 <!--
 **minturtle/minturtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
