@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![minturtle's GitHub stats](https://github-readme-stats.vercel.app/api?username=minturtle)](https://github.com/minturtle/github-readme-stats)
+
 <!--
 **minturtle/minturtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
