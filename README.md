@@ -4,11 +4,12 @@
 
 ✨ Stacks ✨
 
-Main Stacks 
+### Main Stacks 
 
 Python, Langchain, LangGraph, FastAPI, SQLAlchemy, Java, Spring
 
-Sub Stacks 
+### Sub Stacks 
+
 MySQL, ElasticSearch, Docker, Oracle Cloud
 <br />
 
