@@ -1,17 +1,27 @@
 <div c
 
-### Hi there 👋
+### Hello, I'm AI Agent & Multi Agent Developer.
 
 ✨ Stacks ✨
 
 ### Main Stacks 
 
-Python, Langchain, LangGraph, FastAPI, SQLAlchemy, Java, Spring
+Python, Langchain, LangGraph, Docker
 
 ### Sub Stacks 
 
-MySQL, ElasticSearch, Docker, Oracle Cloud
+MySQL, ElasticSearch, Vllm, Java, Spring
 <br />
+
+
+
+### Papers
+
+
+
+### Contributes
+
+- [(Progress)OpenManus - fix: ToolMessage contained an incorrect error message when all search engines returned empty results](https://github.com/FoundationAgents/OpenManus/pull/1279)
 
 
 
@@ -23,17 +33,4 @@ MySQL, ElasticSearch, Docker, Oracle Cloud
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=minturtle&show_icons=true&hide_border=true&count_private=true" width=56% />
 </a>
-<!--
-**minturtle/minturtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
